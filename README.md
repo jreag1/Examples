@@ -1,3 +1,3 @@
 # Examples
 
-Sample data science, machine learning, and mathematics projects.
+Various data science, machine learning, and mathematics projects. See folders for individual projects.
